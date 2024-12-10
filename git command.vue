@@ -1,1 +1,1 @@
-список веток git branch -a
+список веток: git branch -a
